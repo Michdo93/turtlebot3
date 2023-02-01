@@ -162,4 +162,7 @@
     </inertial>
   </link>
 
+
+  <xacro:camera sensor_name="camera" parent_name="base_link" origin_xyz="0.015 0.0 0.09" camera_YAW="0.0"/> 
+
 </robot>
